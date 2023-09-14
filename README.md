@@ -1,1 +1,1 @@
-These are my lunar vim config files. I'm uploading these config files so that I can easily pull these configs to my other devices.
+These are my lunar vim config files. Uploaded on 9-12-23 first commit. Jaime Ledesma
